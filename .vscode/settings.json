@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSave": true,
+    "python.linting.enabled": true,
+    "python.linting.lintOnSave": true,
+    "python.linting.mypyEnabled": true,
+    "python.linting.pylamaEnabled": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    },
+}
